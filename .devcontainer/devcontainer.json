@@ -1,0 +1,1 @@
+{"name":"Fleet PHP","image":"mcr.microsoft.com/devcontainers/php:1-8.2-bookworm","forwardPorts":[8000],"postStartCommand":"php -S 0.0.0.0:8000","portsAttributes":{"8000":{"label":"Fleet Inventory Preview","onAutoForward":"openBrowser"}}}
