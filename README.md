@@ -1,0 +1,2 @@
+# Fleet Inventory & Job Order System
+PHP Fleet Inventory and Maintenance system. Serialized inventory, vehicle lifecycle history, Checker workspace, Task Master, multiple JO tasks, mechanic assignment/PIN verification workflow, outside purchases with receipt evidence, and permanent audit history.
